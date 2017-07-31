@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="33" passed="33">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazontestcases" duration-ms="214" started-at="2017-07-24T18:03:56Z" finished-at="2017-07-24T18:03:56Z">
+    <groups>
+      <group name="reg">
+        <method signature="BeforeAfterMethodExample.verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="verifycart" class="TESTNGFW.BeforeAfterMethodExample"/>
+        <method signature="BeforeAfterMethodExample1.verifyprodimg()[pri:2, instance:TESTNGFW.BeforeAfterMethodExample1@1efbd816]" name="verifyprodimg" class="TESTNGFW.BeforeAfterMethodExample1"/>
+        <method signature="BeforeAfterMethodExample.verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="verifycart" class="TESTNGFW.BeforeAfterMethodExample"/>
+        <method signature="BeforeAfterMethodExample1.verifyprodimg()[pri:2, instance:TESTNGFW.BeforeAfterMethodExample1@9629756]" name="verifyprodimg" class="TESTNGFW.BeforeAfterMethodExample1"/>
+        <method signature="BeforeAfterMethodExample.verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="verifycart" class="TESTNGFW.BeforeAfterMethodExample"/>
+        <method signature="BeforeAfterMethodExample1.verifyprodimg()[pri:2, instance:TESTNGFW.BeforeAfterMethodExample1@4f933fd1]" name="verifyprodimg" class="TESTNGFW.BeforeAfterMethodExample1"/>
+      </group> <!-- reg -->
+      <group name="smoke">
+        <method signature="BeforeAfterMethodExample.verifydept()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="verifydept" class="TESTNGFW.BeforeAfterMethodExample"/>
+        <method signature="BeforeAfterMethodExample1.verifyprodava()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample1@1efbd816]" name="verifyprodava" class="TESTNGFW.BeforeAfterMethodExample1"/>
+        <method signature="BeforeAfterMethodExample1.verifyprodprice()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample1@1efbd816]" name="verifyprodprice" class="TESTNGFW.BeforeAfterMethodExample1"/>
+        <method signature="BeforeAfterMethodExample.verifydept()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="verifydept" class="TESTNGFW.BeforeAfterMethodExample"/>
+        <method signature="BeforeAfterMethodExample1.verifyprodava()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample1@9629756]" name="verifyprodava" class="TESTNGFW.BeforeAfterMethodExample1"/>
+        <method signature="BeforeAfterMethodExample1.verifyprodprice()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample1@9629756]" name="verifyprodprice" class="TESTNGFW.BeforeAfterMethodExample1"/>
+        <method signature="BeforeAfterMethodExample.verifydept()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="verifydept" class="TESTNGFW.BeforeAfterMethodExample"/>
+        <method signature="BeforeAfterMethodExample1.verifyprodava()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample1@4f933fd1]" name="verifyprodava" class="TESTNGFW.BeforeAfterMethodExample1"/>
+        <method signature="BeforeAfterMethodExample1.verifyprodprice()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample1@4f933fd1]" name="verifyprodprice" class="TESTNGFW.BeforeAfterMethodExample1"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="IEtest" duration-ms="199" started-at="2017-07-24T18:03:56Z" finished-at="2017-07-24T18:03:56Z">
+      <class name="TESTNGFW.BeforeAfterMethodExample">
+        <test-method status="PASS" signature="login()[pri:0, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="login" is-config="true" duration-ms="14" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifylang()[pri:0, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="verifylang" duration-ms="16" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylang -->
+        <test-method status="PASS" signature="verifydept()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="verifydept" duration-ms="2" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydept -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="verifycart" duration-ms="11" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="verifycart" duration-ms="4" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="verifycart" duration-ms="6" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="verifycart" duration-ms="5" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="verifycart" duration-ms="2" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@d2cc05a]" name="verifycart" duration-ms="1" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+      </class> <!-- TESTNGFW.BeforeAfterMethodExample -->
+      <class name="TESTNGFW.BeforeAfterMethodExample1">
+        <test-method status="PASS" signature="verifyprodprice()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample1@4f933fd1]" name="verifyprodprice" duration-ms="6" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyprodprice -->
+        <test-method status="PASS" signature="verifyprodimg()[pri:2, instance:TESTNGFW.BeforeAfterMethodExample1@4f933fd1]" name="verifyprodimg" duration-ms="1" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyprodimg -->
+        <test-method status="PASS" signature="verifyprodava()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample1@4f933fd1]" name="verifyprodava" duration-ms="2" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyprodava -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:TESTNGFW.BeforeAfterMethodExample1@4f933fd1]" name="logout" is-config="true" duration-ms="9" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- TESTNGFW.BeforeAfterMethodExample1 -->
+    </test> <!-- IEtest -->
+    <test name="chrometest" duration-ms="169" started-at="2017-07-24T18:03:56Z" finished-at="2017-07-24T18:03:56Z">
+      <class name="TESTNGFW.BeforeAfterMethodExample">
+        <test-method status="PASS" signature="login()[pri:0, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="login" is-config="true" duration-ms="13" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifylang()[pri:0, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="verifylang" duration-ms="25" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylang -->
+        <test-method status="PASS" signature="verifydept()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="verifydept" duration-ms="11" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydept -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="verifycart" duration-ms="1" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="verifycart" duration-ms="8" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="verifycart" duration-ms="5" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="verifycart" duration-ms="3" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="verifycart" duration-ms="3" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@7f9a81e8]" name="verifycart" duration-ms="4" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+      </class> <!-- TESTNGFW.BeforeAfterMethodExample -->
+      <class name="TESTNGFW.BeforeAfterMethodExample1">
+        <test-method status="PASS" signature="verifyprodprice()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample1@9629756]" name="verifyprodprice" duration-ms="1" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyprodprice -->
+        <test-method status="PASS" signature="verifyprodimg()[pri:2, instance:TESTNGFW.BeforeAfterMethodExample1@9629756]" name="verifyprodimg" duration-ms="1" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyprodimg -->
+        <test-method status="PASS" signature="verifyprodava()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample1@9629756]" name="verifyprodava" duration-ms="13" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyprodava -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:TESTNGFW.BeforeAfterMethodExample1@9629756]" name="logout" is-config="true" duration-ms="0" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- TESTNGFW.BeforeAfterMethodExample1 -->
+    </test> <!-- chrometest -->
+    <test name="firefoxtest" duration-ms="214" started-at="2017-07-24T18:03:56Z" finished-at="2017-07-24T18:03:56Z">
+      <class name="TESTNGFW.BeforeAfterMethodExample">
+        <test-method status="PASS" signature="login()[pri:0, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="login" is-config="true" duration-ms="13" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifylang()[pri:0, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="verifylang" duration-ms="21" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylang -->
+        <test-method status="PASS" signature="verifydept()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="verifydept" duration-ms="2" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydept -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="verifycart" duration-ms="3" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="verifycart" duration-ms="2" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="verifycart" duration-ms="40" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="verifycart" duration-ms="4" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="verifycart" duration-ms="0" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="verifycart()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample@66d2e7d9]" name="verifycart" duration-ms="2" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+      </class> <!-- TESTNGFW.BeforeAfterMethodExample -->
+      <class name="TESTNGFW.BeforeAfterMethodExample1">
+        <test-method status="PASS" signature="verifyprodprice()[pri:1, instance:TESTNGFW.BeforeAfterMethodExample1@1efbd816]" name="verifyprodprice" duration-ms="1" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyprodprice -->
+        <test-method status="PASS" signature="verifyprodimg()[pri:2, instance:TESTNGFW.BeforeAfterMethodExample1@1efbd816]" name="verifyprodimg" duration-ms="5" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyprodimg -->
+        <test-method status="PASS" signature="verifyprodava()[pri:3, instance:TESTNGFW.BeforeAfterMethodExample1@1efbd816]" name="verifyprodava" duration-ms="0" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyprodava -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:TESTNGFW.BeforeAfterMethodExample1@1efbd816]" name="logout" is-config="true" duration-ms="1" started-at="2017-07-24T11:03:56Z" finished-at="2017-07-24T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- TESTNGFW.BeforeAfterMethodExample1 -->
+    </test> <!-- firefoxtest -->
+  </suite> <!-- Amazontestcases -->
+</testng-results>

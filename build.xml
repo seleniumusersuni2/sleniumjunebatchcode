@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<project name="seleniumjulybatch" default="createfolders" basedir=".">
+		
+		<target name="deletefolders">
+							<delete dir="folder1"/>
+							<delete dir="folder2"/>
+							<delete dir="folder3"/>				
+						</target>
+		
+		<target name="createfolders" depends="deletefolders">
+			<mkdir dir="folder1"/>
+			<mkdir dir="folder2"/>
+			<mkdir dir="folder3"/>				
+		</target>
+		
+		
+				
+	</project>

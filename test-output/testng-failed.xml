@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Amazontestcases]">
+  <test name="firefoxtest(failed)">
+    <classes>
+      <class name="TESTNGFW.BeforeAfterMethodExample">
+        <methods>
+          <include name="login"/>
+          <include name="verifylang"/>
+        </methods>
+      </class> <!-- TESTNGFW.BeforeAfterMethodExample -->
+    </classes>
+  </test> <!-- firefoxtest(failed) -->
+  <test name="chrometest(failed)">
+    <classes>
+      <class name="TESTNGFW.BeforeAfterMethodExample">
+        <methods>
+          <include name="login"/>
+          <include name="verifylang"/>
+        </methods>
+      </class> <!-- TESTNGFW.BeforeAfterMethodExample -->
+    </classes>
+  </test> <!-- chrometest(failed) -->
+  <test name="IEtest(failed)">
+    <classes>
+      <class name="TESTNGFW.BeforeAfterMethodExample">
+        <methods>
+          <include name="login"/>
+          <include name="verifylang"/>
+        </methods>
+      </class> <!-- TESTNGFW.BeforeAfterMethodExample -->
+    </classes>
+  </test> <!-- IEtest(failed) -->
+</suite> <!-- Failed suite [Amazontestcases] -->

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Amazontestcases" parallel="tests">
+  
+  <test name="firefoxtest">  
+    <classes>
+      <class name="TESTNGFW.BeforeAfterMethodExample"/> 
+      <class name="TESTNGFW.BeforeAfterMethodExample1"/>      	
+    </classes>
+  </test> <!-- Test -->
+
+  <test name="chrometest">  
+    <classes>
+      <class name="TESTNGFW.BeforeAfterMethodExample"/> 
+      <class name="TESTNGFW.BeforeAfterMethodExample1"/>      	
+    </classes>
+  </test> <!-- Test -->
+
+
+  <test name="IEtest">  
+    <classes>
+      <class name="TESTNGFW.BeforeAfterMethodExample"/> 
+      <class name="TESTNGFW.BeforeAfterMethodExample1"/>      	
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
